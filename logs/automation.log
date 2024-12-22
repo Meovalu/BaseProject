@@ -1,0 +1,62 @@
+2024-12-21 11:04:43 INFO  TC001_LoginTest:13 - ***** Starting TC001_LoginTest  ****
+2024-12-21 11:04:45 INFO  TC001_LoginTest:16 - Providing user details...
+2024-12-21 11:04:48 INFO  TC001_LoginTest:22 - Validating result...
+2024-12-21 11:04:48 INFO  TC001_LoginTest:33 - ***** Finished TC001_LoginTest *****
+2024-12-21 11:05:11 INFO  TC002_AddToCart:14 - ***** Starting TC002_AddToCartTest  ****
+2024-12-21 11:05:11 INFO  TC002_AddToCart:17 - Providing user details...
+2024-12-21 11:05:12 INFO  TC002_AddToCart:25 - Providing user details...
+2024-12-21 11:05:13 INFO  TC002_AddToCart:37 - ***** Finished TC002_AddToCartTest *****
+2024-12-21 11:44:40 INFO  TC002_AddToCart:14 - ***** Starting TC002_AddToCartTest  ****
+2024-12-21 11:44:41 INFO  TC002_AddToCart:17 - Providing user details...
+2024-12-21 11:44:47 INFO  TC002_AddToCart:25 - Providing user details...
+2024-12-21 11:44:50 INFO  TC002_AddToCart:37 - ***** Finished TC002_AddToCartTest *****
+2024-12-21 11:46:08 INFO  TC001_LoginTest:13 - ***** Starting TC001_LoginTest  ****
+2024-12-21 11:46:08 INFO  TC001_LoginTest:16 - Providing user details...
+2024-12-21 11:46:14 INFO  TC001_LoginTest:22 - Validating result...
+2024-12-21 11:46:14 INFO  TC001_LoginTest:33 - ***** Finished TC001_LoginTest *****
+2024-12-21 11:46:29 INFO  TC002_AddToCart:14 - ***** Starting TC002_AddToCartTest  ****
+2024-12-21 11:46:29 INFO  TC002_AddToCart:17 - Providing user details...
+2024-12-21 11:46:30 INFO  TC002_AddToCart:25 - Providing user details...
+2024-12-21 11:46:34 INFO  TC002_AddToCart:37 - ***** Finished TC002_AddToCartTest *****
+2024-12-21 16:05:04 INFO  TC001_LoginTest:13 - ***** Starting TC001_LoginTest  ****
+2024-12-21 16:05:04 INFO  TC001_LoginTest:16 - Providing user details...
+2024-12-21 16:05:06 INFO  TC001_LoginTest:22 - Validating result...
+2024-12-21 16:05:06 INFO  TC001_LoginTest:33 - ***** Finished TC001_LoginTest *****
+2024-12-21 16:05:21 INFO  TC002_AddToCart:14 - ***** Starting TC002_AddToCartTest  ****
+2024-12-21 16:05:21 INFO  TC002_AddToCart:17 - Providing user details...
+2024-12-21 16:05:22 INFO  TC002_AddToCart:25 - Providing user details...
+2024-12-21 16:05:22 INFO  TC002_AddToCart:37 - ***** Finished TC002_AddToCartTest *****
+2024-12-21 16:05:44 INFO  TC003_DDT:15 - ***** stating TC_003_LoginDDT ******
+2024-12-21 16:05:49 INFO  TC003_DDT:57 - ***** Finished TC_003_LoginDDT ******
+2024-12-21 16:05:49 INFO  TC003_DDT:15 - ***** stating TC_003_LoginDDT ******
+2024-12-21 16:05:52 INFO  TC003_DDT:57 - ***** Finished TC_003_LoginDDT ******
+2024-12-21 16:05:52 INFO  TC003_DDT:15 - ***** stating TC_003_LoginDDT ******
+2024-12-21 16:05:56 INFO  TC003_DDT:57 - ***** Finished TC_003_LoginDDT ******
+2024-12-21 16:05:56 INFO  TC003_DDT:15 - ***** stating TC_003_LoginDDT ******
+2024-12-21 16:06:00 INFO  TC003_DDT:57 - ***** Finished TC_003_LoginDDT ******
+2024-12-21 16:06:00 INFO  TC003_DDT:15 - ***** stating TC_003_LoginDDT ******
+2024-12-21 16:06:04 INFO  TC003_DDT:57 - ***** Finished TC_003_LoginDDT ******
+2024-12-21 16:06:04 INFO  TC003_DDT:15 - ***** stating TC_003_LoginDDT ******
+2024-12-21 16:06:07 INFO  TC003_DDT:57 - ***** Finished TC_003_LoginDDT ******
+2024-12-21 16:06:07 INFO  TC003_DDT:15 - ***** stating TC_003_LoginDDT ******
+2024-12-21 16:09:07 INFO  TC001_LoginTest:13 - ***** Starting TC001_LoginTest  ****
+2024-12-21 16:09:07 INFO  TC001_LoginTest:16 - Providing user details...
+2024-12-21 16:09:08 INFO  TC001_LoginTest:22 - Validating result...
+2024-12-21 16:09:08 INFO  TC001_LoginTest:33 - ***** Finished TC001_LoginTest *****
+2024-12-21 16:09:22 INFO  TC002_AddToCart:14 - ***** Starting TC002_AddToCartTest  ****
+2024-12-21 16:09:22 INFO  TC002_AddToCart:17 - Providing user details...
+2024-12-21 16:09:23 INFO  TC002_AddToCart:25 - Providing user details...
+2024-12-21 16:09:23 INFO  TC002_AddToCart:37 - ***** Finished TC002_AddToCartTest *****
+2024-12-21 16:09:40 INFO  TC003_DDT:15 - ***** stating TC_003_LoginDDT ******
+2024-12-21 16:09:44 INFO  TC003_DDT:57 - ***** Finished TC_003_LoginDDT ******
+2024-12-21 16:09:44 INFO  TC003_DDT:15 - ***** stating TC_003_LoginDDT ******
+2024-12-21 16:09:47 INFO  TC003_DDT:57 - ***** Finished TC_003_LoginDDT ******
+2024-12-21 16:09:47 INFO  TC003_DDT:15 - ***** stating TC_003_LoginDDT ******
+2024-12-21 16:09:51 INFO  TC003_DDT:57 - ***** Finished TC_003_LoginDDT ******
+2024-12-21 16:09:51 INFO  TC003_DDT:15 - ***** stating TC_003_LoginDDT ******
+2024-12-21 16:09:55 INFO  TC003_DDT:57 - ***** Finished TC_003_LoginDDT ******
+2024-12-21 16:09:55 INFO  TC003_DDT:15 - ***** stating TC_003_LoginDDT ******
+2024-12-21 16:09:59 INFO  TC003_DDT:57 - ***** Finished TC_003_LoginDDT ******
+2024-12-21 16:09:59 INFO  TC003_DDT:15 - ***** stating TC_003_LoginDDT ******
+2024-12-21 16:10:02 INFO  TC003_DDT:57 - ***** Finished TC_003_LoginDDT ******
+2024-12-21 16:10:02 INFO  TC003_DDT:15 - ***** stating TC_003_LoginDDT ******
