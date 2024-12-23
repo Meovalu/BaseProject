@@ -1,1 +1,2 @@
 check eclipse connection
+check github connection
